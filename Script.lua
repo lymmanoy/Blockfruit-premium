@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/<username>/bloxfruits-premium/main/core.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lymmanoy/bloxfruits-premium/main/core.lua"))()
